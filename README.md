@@ -7,3 +7,11 @@ Example with node.js + socket.io + react.js
 2. start jsx transformer in root with `jsx --watch src/ js/`
 3. start node server in root with `node server.js`
 4. open `localhost:3000` in browser
+
+Project structure: 
+- index.html: the one and only html page
+- server.js: node.js server part
+- src: react components with embedded jsx
+- js: 
+-   main.js: require.js main component
+-   generated react js files
