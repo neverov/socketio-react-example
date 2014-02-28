@@ -12,6 +12,5 @@ Project structure:
 - index.html: the one and only html page
 - server.js: node.js server part
 - src: react components with embedded jsx
-- js: 
--   main.js: require.js main component
--   generated react js files
+- js/main.js: require.js main component
+- js/ generated react js files
